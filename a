@@ -1,51 +1,47 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i7kKf4V.png" group-title="MOLDOVA",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+.https://v2.trm.md/static/streaming-playlists/hls/f40a51c3-4bc8-4ace-8844-0ab22d378ddd/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRM8ZPB.png" group-title="MOLDOVA",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-country="MD" tvg-url="" group-title="RANDOM",TVR Moldova
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/4.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png"group-title="RANDOM",TVRi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png"group-title="RANDOM",TVRi
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png"group-title="MOLDTELECOM",JURNAL TV
 http://212.0.215.115/JurnalTV/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png"group-title="MOLDTELECOM",PRO TV
-http://212.0.215.115/ProTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png"group-title="",ProTV
+http://185.181.228.153:8081/sdi
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",PUBLIKA
 http://livebeta.publika.md/LIVE/P/6810.m3u8
-
-.https://livebeta.publika.md/LIVE/P/1500.m3u8
+//https://livebeta.publika.md/LIVE/P/1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/592.png"group-title="MOLDTELECOM",TELE MOLDOVA+
 http://212.0.215.106/TeleMoldova+/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/25.png"group-title="RANDOM",N4
+https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/397.png"group-title="MOLDTELECOM",TV8
 http://212.0.215.115/TV8/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/26.png"group-title="MOLDTELECOM",TVC 21
 http://212.0.215.115/TVC21/mpegts
-#EXTINF:-1 tvg-id="NorocTV.md" status="timeout",Noroc TV (576p)
+#EXTINF:-1 tvg-logo="https://iptvz.cf/noroc-tv-md.png"group-title="RANDOM",NOROC TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png"group-title="RANDOM",TV6
 https://streamtvc.tk/ctv/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/25.png"group-title="MOLDTELECOM",N4
-http://212.0.215.115/N4/mpegts
 #EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",PRIME
 https://livebeta.publika.md/LIVE/1/600.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",PRIMUL ÎN MOLDOVA
 https://video.a-tv.md/live/primul.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RU
 http://212.0.215.115/Euronews/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="",EURONEWS RO
+#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RO
 http://212.0.215.115/Euronews_Ro/mpegts
 #EXTINF:-1 tvg-logo=""group-title="IZONE",5 КАНАЛ
 http://185.32.44.154/5kanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Acasa_2022_flat.png"group-title="MOLDTELECOM",ACASA
 http://212.0.215.115/PRO2/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/472.png"group-title="MOLDTELECOM",ACCENT TV
-http://212.0.215.115/AccentTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/256.png"group-title="MOLDTELECOM",AGRO TV
 http://212.0.215.115/AgroTV/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/574.png"group-title="MOLDTELECOM",ALFA OMEGA
-http://212.0.215.115/AlfaOmega/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/animal-planet.png"group-title="MOLDTELECOM",ANIMAL PLANET
 http://212.0.215.115/AnimalPl/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/136.png"group-title="RANDOM",CANAL 2
@@ -56,14 +52,14 @@ http://91.230.214.75/LIVE/3/2000.m3u8
 http://212.0.215.115/Canal5/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/538.png"group-title="MOLDTELECOM",CINEMA 1
 http://212.0.215.115/cinema1/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/discovery-channel.png"group-title="MOLDTELECOM",DISCOVERY
-http://212.0.215.115/Discovery/mpegts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png"group-title="RANDOM",TRAVELXP
+http://95.217.196.109:8081/russia/discovery_sd_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/discovery-channel.png"group-title="",DISCOVERY
+http://212.0.215.115/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",DISCOVERY SCIENCE
 http://185.32.44.154/discoveryscience/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/dtx.png"group-title="MOLDTELECOM",DTX
 http://212.0.215.115/DTX/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/7/70/Etno_logo2021.png"group-title="MOLDTELECOM",ETNO
-http://212.0.215.115/EtnoTV/mpegts
 #EXTINF:-1 tvg-logo=""group-title="IZONE",EUROSPORT 1
 http://185.32.44.154/eurosport/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/familia-domashniy.png"group-title="MOLDTELECOM",FAMILIA
@@ -80,20 +76,10 @@ http://212.0.215.115/KanalD/mpegts
 http://212.0.215.115/KvartalTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/20.png"group-title="MOLDTELECOM",MEGA TV
 http://212.0.215.115/STS/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/84.png"group-title="MOLDTELECOM",N24 Plus
-http://212.0.215.106/N24plus/mpegts
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",NAT GEO WILD
-http://31.148.48.15:80/Nat_Geo_Wild_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://iptvz.cf/national-geographic.png"group-title="MOLDTELECOM",NATIONAL GEOGRAPHIC
 http://212.0.215.115/NAT-GEO/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/23.png"group-title="MOLDTELECOM",NATIONAL TV
 http://212.0.215.115/National/mpegts
-#EXTINF:-1 tvg-logo="https://cdnedge.starnet.md/media/grid/685427f3-64b7-4cb5-ae0d-0a46e6eb6ae5.png"group-title="MOLDTELECOM",NTS SD
-http://212.0.215.106/NTS/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/588.png"group-title="MOLDTELECOM",PRIVESC EU
-http://212.0.215.115/Privesc.eu/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/525.png"group-title="MOLDTELECOM",R Live TV
-http://212.0.215.115/R_Live_TV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/539.png"group-title="MOLDTELECOM",REN
 http://212.0.215.115/DTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/19.png"group-title="MOLDTELECOM",REN Moldova
@@ -104,16 +90,13 @@ http://212.0.215.106/RomaniaTV/mpegts
 http://212.0.215.106/SorTV/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/star-family.png"group-title="MOLDTELECOM",STAR FAMILY
 http://212.0.215.115/StarFamily/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/star-cinema.png"group-title="MOLDTELECOM",STAR CINEMA
-http://212.0.215.115/StarCinema/mpegts
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",T+
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/517.png"group-title="RANDOM",TEZAUR FOLK
-http://77.89.221.150/tezaur/index.m3u8
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+//http://77.89.221.150/tezaur/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/tlc.png"group-title="MOLDTELECOM",TLC
 http://212.0.215.115/TLC/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/14.png"group-title="MOLDTELECOM",TRAVEL MIX
-http://212.0.215.115/TravelMix/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/travel-adventure.png"group-title="MOLDTELECOM",TRAVEL+ADVENTURE
 http://212.0.215.115/Travel/mpegts
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 Русское кино 
@@ -168,6 +151,8 @@ http://185.32.44.154/kvntv/index.m3u8
 http://212.0.215.115/Comedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/kinosemia.png"group-title="MOLDTELECOM",КИНОСЕМЬЯ
 http://212.0.215.115/KinoSemya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/pobeda.png"group-title="MOLDTELECOM",ПОБЕДА
+http://212.0.215.115/Pobeda/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",КРАСНАЯ ЛИНИЯ
 http://flu.ttk.mx:90/Krasnaya_Liniya/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-logo=""group-title="IZONE",КТО ЕСТЬ КТО
@@ -204,8 +189,8 @@ http://185.32.44.154/nashenovoekino/index.m3u8
 http://185.32.44.154/nostalgiya/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ
 http://185.23.80.28:8080/NTV/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ HD
-https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="RANDOM",HTB HD
+http://flu.ttk.mx:90/NTV_HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Сериал
 http://185.23.80.28:8080/NTVSerial/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Стиль
@@ -214,12 +199,10 @@ http://185.23.80.28:8080/NTVStil/index.m3u8
 http://185.23.80.28:8080/NTVXit/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",О!
 http://185.23.80.28:8080/O/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="IZONE",ПЕРВЫЙ КАНАЛ
-http://185.32.44.154/perviy/index.m3u8
+#EXTINF:-1 group-title="RANDOM" ,ПЕРВЫЙ КАНАЛ
+http://flu.ttk.mx:90/Pervy_HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/pobeda.png"group-title="MOLDTELECOM",ПОБЕДА
-http://212.0.215.115/Pobeda/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ПРИКЛЮЧЕНИЯ
 http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ПЯТНИЦА
@@ -234,8 +217,9 @@ http://185.23.80.28:8080/Retro/index.m3u8
 http://185.32.44.154/rodnoekino/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РОССИЯ 24
 http://185.23.80.28:8080/Rossiya24/index.m3u8
-#EXTINF:-1,Россия 1
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Россия 1
+http://flu.ttk.mx:90/Russia_HD/mono.m3u8?token=hs06e
+//http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РОССИЯ К
 http://185.23.80.28:8080/RossiyaK/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",РТР ПЛАНЕТА
@@ -289,10 +273,17 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",Вместе РФ HD
 http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+http://95.217.196.109:8081/russia/izvestiya/playlist.m3u8
+//http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",Drochia TV
 https://hls.drochia.tv/tv/web.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",Diaspora Media
 https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",Exclusiv TV Moldova
 http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Euro Tv
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Realitatea Live
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Privesc Eu
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
