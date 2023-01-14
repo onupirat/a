@@ -1,0 +1,298 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7kKf4V.png" group-title="MOLDOVA",Moldova 1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRM8ZPB.png" group-title="MOLDOVA",Moldova 2
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-country="MD" tvg-url="" group-title="RANDOM",TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png"group-title="RANDOM",TVRi
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png"group-title="MOLDTELECOM",JURNAL TV
+http://212.0.215.115/JurnalTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png"group-title="MOLDTELECOM",PRO TV
+http://212.0.215.115/ProTV/mpegts
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",PUBLIKA
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+.https://livebeta.publika.md/LIVE/P/1500.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/592.png"group-title="MOLDTELECOM",TELE MOLDOVA+
+http://212.0.215.106/TeleMoldova+/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/397.png"group-title="MOLDTELECOM",TV8
+http://212.0.215.115/TV8/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/26.png"group-title="MOLDTELECOM",TVC 21
+http://212.0.215.115/TVC21/mpegts
+#EXTINF:-1 tvg-id="NorocTV.md" status="timeout",Noroc TV (576p)
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png"group-title="RANDOM",TV6
+https://streamtvc.tk/ctv/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/25.png"group-title="MOLDTELECOM",N4
+http://212.0.215.115/N4/mpegts
+#EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",PRIME
+https://livebeta.publika.md/LIVE/1/600.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",PRIMUL ÎN MOLDOVA
+https://video.a-tv.md/live/primul.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RU
+http://212.0.215.115/Euronews/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="",EURONEWS RO
+http://212.0.215.115/Euronews_Ro/mpegts
+#EXTINF:-1 tvg-logo=""group-title="IZONE",5 КАНАЛ
+http://185.32.44.154/5kanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Acasa_2022_flat.png"group-title="MOLDTELECOM",ACASA
+http://212.0.215.115/PRO2/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/472.png"group-title="MOLDTELECOM",ACCENT TV
+http://212.0.215.115/AccentTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/256.png"group-title="MOLDTELECOM",AGRO TV
+http://212.0.215.115/AgroTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/574.png"group-title="MOLDTELECOM",ALFA OMEGA
+http://212.0.215.115/AlfaOmega/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/animal-planet.png"group-title="MOLDTELECOM",ANIMAL PLANET
+http://212.0.215.115/AnimalPl/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/136.png"group-title="RANDOM",CANAL 2
+http://91.230.214.75/LIVE/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/150.png"group-title="RANDOM",CANAL 3
+http://91.230.214.75/LIVE/3/2000.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/473.png"group-title="MOLDTELECOM",CANAL 5
+http://212.0.215.115/Canal5/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/538.png"group-title="MOLDTELECOM",CINEMA 1
+http://212.0.215.115/cinema1/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/discovery-channel.png"group-title="MOLDTELECOM",DISCOVERY
+http://212.0.215.115/Discovery/mpegts
+#EXTINF:-1 tvg-logo=""group-title="IZONE",DISCOVERY SCIENCE
+http://185.32.44.154/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/dtx.png"group-title="MOLDTELECOM",DTX
+http://212.0.215.115/DTX/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/7/70/Etno_logo2021.png"group-title="MOLDTELECOM",ETNO
+http://212.0.215.115/EtnoTV/mpegts
+#EXTINF:-1 tvg-logo=""group-title="IZONE",EUROSPORT 1
+http://185.32.44.154/eurosport/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/familia-domashniy.png"group-title="MOLDTELECOM",FAMILIA
+http://212.0.215.115/SET/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/22.png"group-title="MOLDTELECOM",FAVORIT TV
+http://212.0.215.115/Favorit/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/filmua-drama.png"group-title="MOLDTELECOM",FILM UA DRAMA
+http://212.0.215.115/FilmUaDrama/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/268.png"group-title="MOLDTELECOM",ITV
+http://212.0.215.115/ITV/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kanal-d-hd.png"group-title="MOLDTELECOM",KANAL D
+http://212.0.215.115/KanalD/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kvartal-tv.png"group-title="MOLDTELECOM",KVARTAL TV
+http://212.0.215.115/KvartalTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/20.png"group-title="MOLDTELECOM",MEGA TV
+http://212.0.215.115/STS/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/84.png"group-title="MOLDTELECOM",N24 Plus
+http://212.0.215.106/N24plus/mpegts
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",NAT GEO WILD
+http://31.148.48.15:80/Nat_Geo_Wild_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://iptvz.cf/national-geographic.png"group-title="MOLDTELECOM",NATIONAL GEOGRAPHIC
+http://212.0.215.115/NAT-GEO/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/23.png"group-title="MOLDTELECOM",NATIONAL TV
+http://212.0.215.115/National/mpegts
+#EXTINF:-1 tvg-logo="https://cdnedge.starnet.md/media/grid/685427f3-64b7-4cb5-ae0d-0a46e6eb6ae5.png"group-title="MOLDTELECOM",NTS SD
+http://212.0.215.106/NTS/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/588.png"group-title="MOLDTELECOM",PRIVESC EU
+http://212.0.215.115/Privesc.eu/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/525.png"group-title="MOLDTELECOM",R Live TV
+http://212.0.215.115/R_Live_TV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/539.png"group-title="MOLDTELECOM",REN
+http://212.0.215.115/DTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/19.png"group-title="MOLDTELECOM",REN Moldova
+http://212.0.215.115/PEHTB/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/204.png"group-title="MOLDTELECOM",ROMANIA TV
+http://212.0.215.106/RomaniaTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/601.png"group-title="MOLDTELECOM",SOROCA TV
+http://212.0.215.106/SorTV/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/star-family.png"group-title="MOLDTELECOM",STAR FAMILY
+http://212.0.215.115/StarFamily/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/star-cinema.png"group-title="MOLDTELECOM",STAR CINEMA
+http://212.0.215.115/StarCinema/mpegts
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",T+
+http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/517.png"group-title="RANDOM",TEZAUR FOLK
+http://77.89.221.150/tezaur/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/tlc.png"group-title="MOLDTELECOM",TLC
+http://212.0.215.115/TLC/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/14.png"group-title="MOLDTELECOM",TRAVEL MIX
+http://212.0.215.115/TravelMix/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/travel-adventure.png"group-title="MOLDTELECOM",TRAVEL+ADVENTURE
+http://212.0.215.115/Travel/mpegts
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 Русское кино 
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT EXPLORE
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT HISTORY
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT NATURE
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",VOCEA BASARABIEI
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ZEE TV
+http://185.23.80.28:8080/ZeeTV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",В МИРЕ ЖИВОТНЫХ
+http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",ВОПРОСЫ И ОТВЕТЫ
+http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-logo=""group-title="IZONE",ВРЕМЯ
+http://185.32.44.154/vremya/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",ВРЕМЯ
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ДОКТОР
+http://185.23.80.28:8080/Doktor/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",ДОМАШНИЕ ЖИВОТНЫЕ
+http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ДОМАШНИЙ
+http://185.23.80.28:8080/Domashnij/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ЕДА
+http://185.23.80.28:8080/Eda/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ЖИВАЯ ПЛАНЕТА
+http://185.23.80.28:8080/ZhivayaPlaneta/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",ЖИВИ
+http://185.32.44.154/jivi/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ЗАГОРОДНЫЙ
+http://185.23.80.28:8080/Zagorodnyj/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",ЗВЕЗДА
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ЗОО ТВ
+http://185.23.80.28:8080/ZooTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/indijskoe-kino.png"group-title="MOLDTELECOM",ИНДИЙСКОЕ КИНО
+http://212.0.215.115/IndiaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ИСТОРИЯ
+http://185.23.80.28:8080/Istoriya/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",КАРУСЕЛЬ
+http://185.23.80.28:8080/Karusel/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",КВН ТВ
+http://185.32.44.154/kvntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kinokomedia.png"group-title="MOLDTELECOM",КИНОКОМЕДИЯ
+http://212.0.215.115/Comedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kinosemia.png"group-title="MOLDTELECOM",КИНОСЕМЬЯ
+http://212.0.215.115/KinoSemya/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",КРАСНАЯ ЛИНИЯ
+http://flu.ttk.mx:90/Krasnaya_Liniya/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-logo=""group-title="IZONE",КТО ЕСТЬ КТО
+http://185.32.44.154/ktoestkto/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком.ру",КУХНЯ ТВ
+http://109.197.192.121:8080/kuhnia/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Конный мир HD
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",МИР СЕРИАЛА
+http://185.32.44.154/mirseriala/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",МОСФИЛЬМ
+http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",МОЯ ПЛАНЕТА
+http://185.23.80.28:8080/MoyaPlaneta/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/477.png"group-title="MOLDTELECOM",МУЛЬТ
+http://212.0.215.115/Mult/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/nastoiaschee-vremia.png"group-title="MOLDTELECOM",НАСТОЯЩЕЕ ВРЕМЯ
+http://212.0.215.115/CurrentTime/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НАУКА 2.0
+http://185.23.80.28:8080/Nauka/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",НАШЕ ЛЮБИМОЕ КИНО
+http://185.32.44.154/lubimoekino/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",НАШЕ НОВОЕ КИНО
+http://185.32.44.154/nashenovoekino/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",НОСТАЛЬГИЯ
+http://185.32.44.154/nostalgiya/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ
+http://185.23.80.28:8080/NTV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ HD
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Сериал
+http://185.23.80.28:8080/NTVSerial/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Стиль
+http://185.23.80.28:8080/NTVStil/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Хит
+http://185.23.80.28:8080/NTVXit/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",О!
+http://185.23.80.28:8080/O/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",ПЕРВЫЙ КАНАЛ
+http://185.32.44.154/perviy/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/pobeda.png"group-title="MOLDTELECOM",ПОБЕДА
+http://212.0.215.115/Pobeda/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ПРИКЛЮЧЕНИЯ
+http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ПЯТНИЦА
+https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ПЯТЫЙ КАНАЛ
+http://185.23.80.28:8080/Pyatyj/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РЕН ТВ
+http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РЕТРО
+http://185.23.80.28:8080/Retro/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",РОДНОЕ КИНО
+http://185.32.44.154/rodnoekino/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РОССИЯ 24
+http://185.23.80.28:8080/Rossiya24/index.m3u8
+#EXTINF:-1,Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РОССИЯ К
+http://185.23.80.28:8080/RossiyaK/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",РТР ПЛАНЕТА
+http://185.32.44.154/rtrplaneta/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",РУССКАЯ КОМЕДИЯ
+http://185.32.44.154/vh1classic/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РУССКИЙ ДЕТЕКТИВ
+http://185.23.80.28:8080/RusskijDetektiv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РУССКИЙ ИЛЛЮЗИОН
+http://185.23.80.28:8080/RusIlluzion/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РУССКИЙ РОМАН
+http://185.23.80.28:8080/RusskijRoman/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",САПФИР
+http://185.32.44.154/foxlife/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",САРАФАН
+http://185.23.80.28:8080/Sarafan/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE",СОВЕРШЕННО СЕКРЕТНО
+http://185.32.44.154/sovershennosekretno/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/soyuz.png"group-title="MOLDTELECOM",СОЮЗ
+http://212.0.215.115/Soiuz/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",СУББОТА
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ТВ3
+https://bl.uma.media/live/407373/HLS/407373_7/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ТЕЛЕПУТЕШЕСТВИЯ
+http://185.23.80.28:8080/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ТНТ
+https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ТНТ4
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ЧЕ
+http://185.23.80.28:8080/Che/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE"catchup=""catchup-source=""catchup-days="",ДЕТСКИЙ МИР
+http://185.32.44.154/detskiymir/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ"catchup=""catchup-source=""catchup-days="",2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Вместе РФ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Drochia TV
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Diaspora Media
+https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Exclusiv TV Moldova
+http://89.28.25.122/hls/tnt_md.m3u8
