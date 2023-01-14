@@ -28,9 +28,9 @@ http://212.0.215.115/TVC21/mpegts
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png"group-title="RANDOM",TV6
 https://streamtvc.tk/ctv/stream.m3u8
-#EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",PRIME
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/279.png"group-title="RANDOM",Prime
 https://livebeta.publika.md/LIVE/1/600.m3u8
-#EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",PRIMUL ÎN MOLDOVA
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/471.png"group-title="RANDOM",PRIMUL ÎN MOLDOVA
 https://video.a-tv.md/live/primul.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RU
 http://212.0.215.115/Euronews/mpegts
