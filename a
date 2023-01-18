@@ -1,100 +1,69 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7kKf4V.png" group-title="RANDOM",Moldova 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/77/Moldova_1_2022.png/revision/latest/scale-to-width-down/250?cb=20221023113450&path-prefix=ru" group-title="RANDOM",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 .https://v2.trm.md/static/streaming-playlists/hls/f40a51c3-4bc8-4ace-8844-0ab22d378ddd/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CRM8ZPB.png" group-title="RANDOM",Moldova 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fc/Moldova_2_2022.png/revision/latest/scale-to-width-down/1000?cb=20221023113500&path-prefix=ru" group-title="RANDOM",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/4.png"group-title="RANDOM",TVR Moldova
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png"group-title="RANDOM",TVRi
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png"group-title="MOLDTELECOM",JURNAL TV
-http://212.0.215.115/JurnalTV/mpegts
+http://212.0.215.106/JurnalTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png"group-title="",ProTV
-http://185.181.228.153:8081/sdi
+http://212.0.215.106/ProTV/mpegts
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",PUBLIKA
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 //https://livebeta.publika.md/LIVE/P/1500.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/592.png"group-title="MOLDTELECOM",TELE MOLDOVA+
-http://212.0.215.106/TeleMoldova+/mpegts
+#EXTINF:-1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="RANDOM",VOCEA BASARABIEI
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/25.png"group-title="RANDOM",N4
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/397.png"group-title="MOLDTELECOM",TV8
-http://212.0.215.115/TV8/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/26.png"group-title="MOLDTELECOM",TVC 21
-http://212.0.215.115/TVC21/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/noroc-tv-md.png"group-title="RANDOM",NOROC TV
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png"group-title="RANDOM",TV6
 https://streamtvc.tk/ctv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/279.png"group-title="RANDOM",Prime
 https://livebeta.publika.md/LIVE/1/600.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/471.png"group-title="RANDOM",PRIMUL ÎN MOLDOVA
 https://video.a-tv.md/live/primul.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",DROCHIA TV
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",EXCLUSIV TV
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/a2/a6921f038e4e77bfa233f77eee1f43a2.png"group-title="RANDOM",EURO TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",REALITATEA LIVE
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.privesc.eu/Content/images/logo.png"group-title="RANDOM",PRIVESC EU
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/noroc-tv-md.png"group-title="RANDOM",NOROC TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RU
 http://212.0.215.115/Euronews/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RO
 http://212.0.215.115/Euronews_Ro/mpegts
-#EXTINF:-1 tvg-logo=""group-title="IZONE",5 КАНАЛ
-http://185.32.44.154/5kanal/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Acasa_2022_flat.png"group-title="MOLDTELECOM",ACASA
-http://212.0.215.115/PRO2/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/256.png"group-title="MOLDTELECOM",AGRO TV
-http://212.0.215.115/AgroTV/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/animal-planet.png"group-title="MOLDTELECOM",ANIMAL PLANET
-http://212.0.215.115/AnimalPl/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/136.png"group-title="RANDOM",CANAL 2
 http://91.230.214.75/LIVE/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/150.png"group-title="RANDOM",CANAL 3
 http://91.230.214.75/LIVE/3/2000.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/473.png"group-title="MOLDTELECOM",CANAL 5
-http://212.0.215.115/Canal5/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/538.png"group-title="MOLDTELECOM",CINEMA 1
-http://212.0.215.115/cinema1/mpegts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png"group-title="RANDOM",TRAVELXP
-http://95.217.196.109:8081/russia/discovery_sd_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvron.net/static/canale/512/tele-moldova-plus.png"group-title="MOLDTELECOM",TELE MOLDOVA+
+http://212.0.215.106/TeleMoldova+/mpegts
 #EXTINF:-1 tvg-logo=""group-title="IZONE",DISCOVERY SCIENCE
 http://185.32.44.154/discoveryscience/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/dtx.png"group-title="MOLDTELECOM",DTX
-http://212.0.215.115/DTX/mpegts
 #EXTINF:-1 tvg-logo=""group-title="IZONE",EUROSPORT 1
 http://185.32.44.154/eurosport/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/familia-domashniy.png"group-title="MOLDTELECOM",FAMILIA
-http://212.0.215.115/SET/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/22.png"group-title="MOLDTELECOM",FAVORIT TV
-http://212.0.215.115/Favorit/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/filmua-drama.png"group-title="MOLDTELECOM",FILM UA DRAMA
-http://212.0.215.115/FilmUaDrama/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/268.png"group-title="MOLDTELECOM",ITV
-http://212.0.215.115/ITV/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/kanal-d-hd.png"group-title="MOLDTELECOM",KANAL D
-http://212.0.215.115/KanalD/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/kvartal-tv.png"group-title="MOLDTELECOM",KVARTAL TV
-http://212.0.215.115/KvartalTV/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/20.png"group-title="MOLDTELECOM",MEGA TV
-http://212.0.215.115/STS/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/23.png"group-title="MOLDTELECOM",NATIONAL TV
-http://212.0.215.115/National/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/539.png"group-title="MOLDTELECOM",REN
 http://212.0.215.115/DTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/19.png"group-title="MOLDTELECOM",REN Moldova
 http://212.0.215.115/PEHTB/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/204.png"group-title="MOLDTELECOM",ROMANIA TV
-http://212.0.215.106/RomaniaTV/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/601.png"group-title="MOLDTELECOM",SOROCA TV
-http://212.0.215.106/SorTV/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/star-family.png"group-title="MOLDTELECOM",STAR FAMILY
 http://212.0.215.115/StarFamily/mpegts
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",T+
+#EXTINF:-1 tvg-logo="https://telplus.ru/favicon.ico"group-title="RANDOM",ТЕЛПЛЮС
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/517.png"group-title="RANDOM",TEZAUR FOLK
 http://77.89.221.150/tezaur/index.m3u8
 ..http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/tlc.png"group-title="MOLDTELECOM",TLC
 http://212.0.215.115/TLC/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/travel-adventure.png"group-title="MOLDTELECOM",TRAVEL+ADVENTURE
-http://212.0.215.115/Travel/mpegts
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 Русское кино 
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",TV PRO
@@ -105,10 +74,6 @@ https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT NATURE
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="MOLDTELECOM",VOCEA BASARABIEI
-http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ZEE TV
-http://185.23.80.28:8080/ZeeTV/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",В МИРЕ ЖИВОТНЫХ
 http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ВОПРОСЫ И ОТВЕТЫ
@@ -135,31 +100,21 @@ http://185.23.80.28:8080/Zagorodnyj/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ЗОО ТВ
 http://185.23.80.28:8080/ZooTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/indijskoe-kino.png"group-title="MOLDTELECOM",ИНДИЙСКОЕ КИНО
-http://212.0.215.115/IndiaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ИСТОРИЯ
 http://185.23.80.28:8080/Istoriya/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",КАРУСЕЛЬ
-http://185.23.80.28:8080/Karusel/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",КВН ТВ
 http://185.32.44.154/kvntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/kinokomedia.png"group-title="MOLDTELECOM",КИНОКОМЕДИЯ
-http://212.0.215.115/Comedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/kinosemia.png"group-title="MOLDTELECOM",КИНОСЕМЬЯ
-http://212.0.215.115/KinoSemya/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/pobeda.png"group-title="MOLDTELECOM",ПОБЕДА
-http://212.0.215.115/Pobeda/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",КРАСНАЯ ЛИНИЯ
-http://flu.ttk.mx:90/Krasnaya_Liniya/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",КРАСНАЯ ЛИНИЯ
+http://185.23.80.28:8080/KrasnayaLiniya/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",КТО ЕСТЬ КТО
 http://185.32.44.154/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком.ру",КУХНЯ ТВ
 http://109.197.192.121:8080/kuhnia/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Конный мир HD
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",КОННЫЙ МИР
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ HD
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ!
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ СТРАНА
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ! СТРАНА
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -171,10 +126,6 @@ http://185.32.44.154/mirseriala/index.m3u8
 http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",МОЯ ПЛАНЕТА
 http://185.23.80.28:8080/MoyaPlaneta/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/477.png"group-title="MOLDTELECOM",МУЛЬТ
-http://212.0.215.115/Mult/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/nastoiaschee-vremia.png"group-title="MOLDTELECOM",НАСТОЯЩЕЕ ВРЕМЯ
-http://212.0.215.115/CurrentTime/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НАУКА 2.0
 http://185.23.80.28:8080/Nauka/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",НАШЕ ЛЮБИМОЕ КИНО
@@ -185,8 +136,8 @@ http://185.32.44.154/nashenovoekino/index.m3u8
 http://185.32.44.154/nostalgiya/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ
 http://185.23.80.28:8080/NTV/index.m3u8
-#EXTINF:-1 group-title="RANDOM",HTB HD
-http://flu.ttk.mx:90/NTV_HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Право
+http://185.23.80.28:8080/NTVPravo/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Сериал
 http://185.23.80.28:8080/NTVSerial/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ Стиль
@@ -195,8 +146,8 @@ http://185.23.80.28:8080/NTVStil/index.m3u8
 http://185.23.80.28:8080/NTVXit/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",О!
 http://185.23.80.28:8080/O/index.m3u8
-#EXTINF:-1 group-title="RANDOM" ,ПЕРВЫЙ КАНАЛ
-http://flu.ttk.mx:90/Pervy_HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ПЕРВЫЙ КАНАЛ
+http://185.23.80.28:8080/Pervyj/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ПРИКЛЮЧЕНИЯ
@@ -211,11 +162,10 @@ http://185.23.80.28:8080/REN/index.m3u8
 http://185.23.80.28:8080/Retro/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",РОДНОЕ КИНО
 http://185.32.44.154/rodnoekino/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РОССИЯ 1
+http://185.23.80.28:8080/Rossiya1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РОССИЯ 24
 http://185.23.80.28:8080/Rossiya24/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Россия 1
-http://flu.ttk.mx:90/Russia_HD/mono.m3u8?token=hs06e
-//http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",РОССИЯ К
 http://185.23.80.28:8080/RossiyaK/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",РТР ПЛАНЕТА
@@ -234,8 +184,6 @@ http://185.32.44.154/foxlife/index.m3u8
 http://185.23.80.28:8080/Sarafan/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="IZONE",СОВЕРШЕННО СЕКРЕТНО
 http://185.32.44.154/sovershennosekretno/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/soyuz.png"group-title="MOLDTELECOM",СОЮЗ
-http://212.0.215.115/Soiuz/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",СУББОТА
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ТВ3
@@ -248,37 +196,77 @@ https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",ЧЕ
 http://185.23.80.28:8080/Che/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="IZONE"catchup=""catchup-source=""catchup-days="",ДЕТСКИЙ МИР
-http://185.32.44.154/detskiymir/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP PREMIERE
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP MEGAHIT
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP COMEDY
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",НОВЫЙ МИР
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",UNIVER TV
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",НАША СИБИРЬ
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png"group-title="RANDOM",СПОРТ 
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img001.prntscr.com/file/img001/Qp1-8T5MSbSvKeQ9btm8Ww.png"group-title="RANDOM",ИЗВЕСТИЯ ТВ
+http://95.217.196.109:8081/russia/izvestiya/playlist.m3u8
+..http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ"catchup=""catchup-source=""catchup-days="",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Новый мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Наша Сибирь
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Вместе РФ HD
-http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Drochia TV
-https://hls.drochia.tv/tv/web.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Diaspora Media
+#EXTINF:-1 tvg-logo=""group-title="IZONE",5 КАНАЛ
+http://185.32.44.154/5kanal/index.m3u8
+
+
+-----------------------------
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",КАРУСЕЛЬ
+http://185.23.80.28:8080/Karusel/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/477.png"group-title="MOLDTELECOM",МУЛЬТ
+http://212.0.215.115/Mult/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/nastoiaschee-vremia.png"group-title="MOLDTELECOM",НАСТОЯЩЕЕ ВРЕМЯ
+http://212.0.215.115/CurrentTime/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",DIASPORA MEDIA
 https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Exclusiv TV Moldova
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Euro Tv
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Realitatea Live
-https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Privesc Eu
-https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="IZONE"catchup=""catchup-source=""catchup-days="",ДЕТСКИЙ МИР
+http://185.32.44.154/detskiymir/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/soyuz.png"group-title="MOLDTELECOM",СОЮЗ
+http://212.0.215.115/Soiuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kinokomedia.png"group-title="MOLDTELECOM",КИНОКОМЕДИЯ
+http://212.0.215.115/Comedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kinosemia.png"group-title="MOLDTELECOM",КИНОСЕМЬЯ
+http://212.0.215.115/KinoSemya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/pobeda.png"group-title="MOLDTELECOM",ПОБЕДА
+http://212.0.215.115/Pobeda/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/indijskoe-kino.png"group-title="MOLDTELECOM",ИНДИЙСКОЕ КИНО
+http://212.0.215.115/IndiaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/travel-adventure.png"group-title="MOLDTELECOM",TRAVEL+ADVENTURE
+http://212.0.215.115/Travel/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/601.png"group-title="MOLDTELECOM",SOROCA TV
+http://212.0.215.106/SorTV/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/familia-domashniy.png"group-title="MOLDTELECOM",FAMILIA
+http://212.0.215.115/SET/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/22.png"group-title="MOLDTELECOM",FAVORIT TV
+http://212.0.215.115/Favorit/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/filmua-drama.png"group-title="MOLDTELECOM",FILM UA DRAMA
+http://212.0.215.115/FilmUaDrama/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/268.png"group-title="MOLDTELECOM",ITV
+http://212.0.215.115/ITV/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kanal-d-hd.png"group-title="MOLDTELECOM",KANAL D
+http://212.0.215.115/KanalD/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kvartal-tv.png"group-title="MOLDTELECOM",KVARTAL TV
+http://212.0.215.115/KvartalTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/20.png"group-title="MOLDTELECOM",MEGA TV
+http://212.0.215.115/STS/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/dtx.png"group-title="MOLDTELECOM",DTX
+http://212.0.215.115/DTX/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/473.png"group-title="MOLDTELECOM",CANAL 5
+http://212.0.215.115/Canal5/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/538.png"group-title="MOLDTELECOM",CINEMA 1
+http://212.0.215.115/cinema1/mpegts
+#EXTINF:-1 tvg-logo="https://iptvz.cf/animal-planet.png"group-title="MOLDTELECOM",ANIMAL PLANET
+http://212.0.215.115/AnimalPl/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/397.png"group-title="MOLDTELECOM",TV8
+http://212.0.215.115/TV8/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/26.png"group-title="MOLDTELECOM",TVC 21
+http://212.0.215.115/TVC21/mpegts
