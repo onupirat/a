@@ -1,8 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/77/Moldova_1_2022.png/revision/latest/scale-to-width-down/250?cb=20221023113450&path-prefix=ru" group-title="RANDOM",Moldova 1
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/2d/07a828806147c985bb413cef9324e72d.png" group-title="RANDOM",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 .https://v2.trm.md/static/streaming-playlists/hls/f40a51c3-4bc8-4ace-8844-0ab22d378ddd/0.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fc/Moldova_2_2022.png/revision/latest/scale-to-width-down/1000?cb=20221023113500&path-prefix=ru" group-title="RANDOM",Moldova 2
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/0b/bc54f69a86e071cfcda7a0ebf063650b.png" group-title="RANDOM",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
@@ -12,7 +12,7 @@ https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 http://212.0.215.106/JurnalTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png"group-title="",ProTV
 http://212.0.215.106/ProTV/mpegts
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",PUBLIKA
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",PUBLIKA TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 //https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="RANDOM",VOCEA BASARABIEI
@@ -37,9 +37,10 @@ https://realitatealive.md/tv/rlive.m3u8
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/noroc-tv-md.png"group-title="RANDOM",NOROC TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RU
+https://seeklogo.com/images/E/EuroNews-logo-2C981071C8-seeklogo.com.png
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/3c/26baaea63c945335db3b39253d10583c.png"group-title="MOLDTELECOM",EURONEWS RU
 http://212.0.215.115/Euronews/mpegts
-#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png"group-title="MOLDTELECOM",EURONEWS RO
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/3c/26baaea63c945335db3b39253d10583c.png"group-title="MOLDTELECOM",EURONEWS RO
 http://212.0.215.115/Euronews_Ro/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/136.png"group-title="RANDOM",CANAL 2
 http://91.230.214.75/LIVE/2/index.m3u8
@@ -57,7 +58,7 @@ http://212.0.215.115/DTV/mpegts
 http://212.0.215.115/PEHTB/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/star-family.png"group-title="MOLDTELECOM",STAR FAMILY
 http://212.0.215.115/StarFamily/mpegts
-#EXTINF:-1 tvg-logo="https://telplus.ru/favicon.ico"group-title="RANDOM",ТЕЛПЛЮС
+#EXTINF:-1 tvg-logo="https://telplus.ru/local/templates/telplus/assets/build/img/svg/logo-sm.svg"group-title="RANDOM",ТЕЛПЛЮС
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/517.png"group-title="RANDOM",TEZAUR FOLK
 http://77.89.221.150/tezaur/index.m3u8
