@@ -5,7 +5,7 @@ http://212.0.213.132:8082/Moldova_1/index.m3u8
 http://212.0.213.132:8082/Jurnal_TV/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",PRO TV Chisinau
 http://212.0.213.132:8082/Pro_TV/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",TV8
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/397.png"group-title="MOLDTELECOM",TV8 Moldova
 http://212.0.213.132:8082/TV8/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",PUBLIKA
 http://212.0.213.132:8082/Publika/index.m3u8
@@ -53,11 +53,11 @@ http://212.0.213.132:8082/Agro/index.m3u8
 http://212.0.213.132:8082/TVC21/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/327.png" group-title="MOLDTELECOM",10 TV
 http://212.0.213.132:8082/10_TV/index.m3u8
-#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/250.png" group-title="MOLDTELECOM",VOCEA BASARABIEI
+#EXTINF:1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="MOLDTELECOM",VOCEA BASARABIEI
 http://212.0.213.132:8082/Vocea_Basarabiei/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",DISCOVERY
 http://212.0.213.132:8082/Discovery/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ANIMAL PLAMET
+#EXTINF:1 group-title="MOLDTELECOM",ANIMAL PLANET
 http://212.0.213.132:8082/Animal_Planet_HD/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",КИНО ТВ
 http://212.0.213.132:8082/Kino_TV/index.m3u8
@@ -67,7 +67,7 @@ http://212.0.213.132:8082/KinoHit/index.m3u8
 http://212.0.213.132:8082/TV1000/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",TV 1000 Action
 http://212.0.213.132:8082/TV1000_Action/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",INDIA TV
+#EXTINF:1 group-title="MOLDTELECOM",ИНДИЯ ТВ
 http://212.0.213.132:8082/India/index.m3u8
 #EXTINF: -1 tvg-logo="https://iptvz.cf/kinosvidanie.png" group-title="MOLDTELECOM",КИНОСВИДАНИЕ
 http://212.0.213.132:8082/Kinosvidanie/index.m3u8
@@ -103,7 +103,7 @@ http://212.0.213.132:8082/Sarafan/index.m3u8
 http://212.0.213.132:8082/Kvartal_95/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",NOROC TV
 http://212.0.213.132:8082/Noroc/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",MUZ TV
+#EXTINF:1 group-title="MOLDTELECOM",МУЗ ТВ
 http://212.0.213.132:8082/Atomic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/3c/26baaea63c945335db3b39253d10583c.png"group-title="MOLDTELECOM",EURONEWS RU
 http://212.0.215.115/Euronews/mpegts
@@ -167,7 +167,7 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/517.png"group-title="RANDOM",TEZAUR FOLK
 http://77.89.221.150/tezaur/index.m3u8
-#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png"group-title="RANDOM",СПОРТ 
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png"group-title="RANDOM",SPORT 
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img001.prntscr.com/file/img001/Qp1-8T5MSbSvKeQ9btm8Ww.png"group-title="RANDOM",ИЗВЕСТИЯ ТВ
 http://95.217.196.109:8081/russia/izvestiya/playlist.m3u8
