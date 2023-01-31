@@ -29,7 +29,7 @@ https://realitatealive.md/tv/rlive.m3u8
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:1 tvg-logo="https://iptvz.cf/familia-domashniy.png" group-title="MOLDTELECOM",FAMILIA
 http://212.0.213.132:8082/FAMILIA_DOMASHNIY/index.m3u8
-#EXTINF:1 tvg-logo="https://fastpic.org/view/121/2023/0131/064ac598dba94243dcafea4b46bdd8b8.png" group-title="MOLDTELECOM",MOLDOVA 2
+#EXTINF:1 tvg-logo="https://i121.fastpic.org/big/2023/0118/0b/bc54f69a86e071cfcda7a0ebf063650b.png" group-title="MOLDTELECOM",MOLDOVA 2
 http://212.0.213.132:8082/Moldova_2/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",CANAL 2
 http://212.0.213.132:8082/Canal_2/index.m3u8
@@ -41,7 +41,7 @@ http://212.0.213.132:8082/TNT_Exclusive/index.m3u8
 http://212.0.213.132:8082/ITV/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",N4
 http://212.0.213.132:8082/N4/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",MEGA
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/20.png" group-title="MOLDTELECOM",MEGA TV
 http://212.0.213.132:8082/CTC/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/538.png" group-title="MOLDTELECOM",CINEMA 1
 http://212.0.213.132:8082/Cinema-1/index.m3u8
