@@ -1,17 +1,17 @@
 #EXTM3U 
-#EXTINF:1 group-title="MOLDTELECOM",MOLDOVA 1
+#EXTINF:1 tvg-logo="https://i121.fastpic.org/big/2023/0118/2d/07a828806147c985bb413cef9324e72d.png" group-title="MOLDTELECOM",MOLDOVA 1
 http://212.0.213.132:8082/Moldova_1/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",JURNAL TV
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/165.png" group-title="MOLDTELECOM",JURNAL TV
 http://212.0.213.132:8082/Jurnal_TV/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",PRO TV Chisinau
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/3.png" group-title="MOLDTELECOM",PRO TV Chisinau
 http://212.0.213.132:8082/Pro_TV/index.m3u8
-#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/397.png"group-title="MOLDTELECOM",TV8 Moldova
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/397.png" group-title="MOLDTELECOM",TV8 Moldova
 http://212.0.213.132:8082/TV8/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",PUBLIKA
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="MOLDTELECOM",PUBLIKA
 http://212.0.213.132:8082/Publika/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png"group-title="RANDOM",TVRi
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",TVRi
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",PRIME
 http://212.0.213.132:8082/Prime_HD/index.m3u8
@@ -19,23 +19,23 @@ http://212.0.213.132:8082/Prime_HD/index.m3u8
 https://streamtvc.tk/ctv/stream.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/471.png"group-title="RANDOM",PRIMUL ÎN MOLDOVA
 https://video.a-tv.md/live/primul.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",DROCHIA TV
+#EXTINF:1 tvg-logo=""group-title="RANDOM",DROCHIA TV
 https://hls.drochia.tv/tv/web.m3u8
-#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/a2/a6921f038e4e77bfa233f77eee1f43a2.png"group-title="RANDOM",EURO TV
+#EXTINF:1 tvg-logo="https://i121.fastpic.org/big/2023/0118/a2/a6921f038e4e77bfa233f77eee1f43a2.png"group-title="RANDOM",EURO TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",REALITATEA LIVE
+#EXTINF:1 tvg-logo=""group-title="RANDOM",REALITATEA LIVE
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-logo="https://www.privesc.eu/Content/images/logo.png"group-title="RANDOM",PRIVESC EU
+#EXTINF:1 tvg-logo="https://www.privesc.eu/Content/images/logo.png"group-title="RANDOM",PRIVESC EU
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",FAMILIA
+#EXTINF:1 tvg-logo="https://iptvz.cf/familia-domashniy.png" group-title="MOLDTELECOM",FAMILIA
 http://212.0.213.132:8082/FAMILIA_DOMASHNIY/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",MOLDOVA 2
+#EXTINF:1 tvg-logo="https://fastpic.org/view/121/2023/0131/064ac598dba94243dcafea4b46bdd8b8.png" group-title="MOLDTELECOM",MOLDOVA 2
 http://212.0.213.132:8082/Moldova_2/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",CANAL 2
 http://212.0.213.132:8082/Canal_2/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",CANAL 3
 http://212.0.213.132:8082/Canal_3/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",THT / Exclusiv TV
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="MOLDTELECOM",THT / Exclusiv TV
 http://212.0.213.132:8082/TNT_Exclusive/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",ITV Moldova
 http://212.0.213.132:8082/ITV/index.m3u8
@@ -43,7 +43,7 @@ http://212.0.213.132:8082/ITV/index.m3u8
 http://212.0.213.132:8082/N4/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",MEGA
 http://212.0.213.132:8082/CTC/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",CINEMA 1
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/538.png" group-title="MOLDTELECOM",CINEMA 1
 http://212.0.213.132:8082/Cinema-1/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",REN Moldova
 http://212.0.213.132:8082/Ren_TV/index.m3u8
@@ -105,9 +105,9 @@ http://212.0.213.132:8082/Kvartal_95/index.m3u8
 http://212.0.213.132:8082/Noroc/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",МУЗ ТВ
 http://212.0.213.132:8082/Atomic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/3c/26baaea63c945335db3b39253d10583c.png"group-title="MOLDTELECOM",EURONEWS RU
+#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RU
 http://212.0.215.115/Euronews/mpegts
-#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/3c/26baaea63c945335db3b39253d10583c.png"group-title="MOLDTELECOM",EURONEWS RO
+#EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RO
 http://212.0.215.115/Euronews_Ro/mpegts
 
 
