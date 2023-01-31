@@ -144,7 +144,24 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 
-
+#EXTINF:1 group-title="RANDOM",PRO TV ROMANIA
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/6997/index.m3u8
+#EXTINF:1 group-title="RANDOM",TVR 1
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/6998/index.m3u8
+#EXTINF:1 group-title="RANDOM",ANTENA 1
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/7002/index.m3u8
+#EXTINF:1 group-title="RANDOM",ANTENA 3
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/7003/index.m3u8
+#EXTINF:1 group-title="RANDOM",ANTENA STARS
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/7004/index.m3u8
+#EXTINF:1 group-title="RANDOM",DIGI 24
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/7009/index.m3u8
+#EXTINF:1 group-title="RANDOM",AXN
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/7008/index.m3u8
+#EXTINF:1 group-title="RANDOM",NAT GEO WILD
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/7010/index.m3u8
+#EXTINF:1 group-title="RANDOM",E! Entertainment
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/6093/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ВОПРОСЫ И ОТВЕТЫ
