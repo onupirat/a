@@ -13,8 +13,8 @@ http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2450/index.m3u8
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",TVRi
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",PRIME
-http://212.0.213.132:8082/Prime_HD/index.m3u8
+#EXTINF:1 group-title="RANDOM",PRIME
+https://livebeta.publika.md/LIVE/1/600.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/15.png"group-title="RANDOM",TV6
 https://streamtvc.tk/ctv/stream.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/471.png"group-title="RANDOM",PRIMUL ÎN MOLDOVA
@@ -27,84 +27,26 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:1 tvg-logo="https://www.privesc.eu/Content/images/logo.png"group-title="RANDOM",PRIVESC EU
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:1 tvg-logo="https://iptvz.cf/familia-domashniy.png" group-title="MOLDTELECOM",FAMILIA
-http://212.0.213.132:8082/FAMILIA_DOMASHNIY/index.m3u8
-#EXTINF:1 tvg-logo="https://i121.fastpic.org/big/2023/0118/0b/bc54f69a86e071cfcda7a0ebf063650b.png" group-title="MOLDTELECOM",MOLDOVA 2
+#EXTINF:1 tvg-logo="https://i121.fastpic.org/big/2023/0118/0b/bc54f69a86e071cfcda7a0ebf063650b.png" group-title="RANDOM",MOLDOVA 2
 http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2445/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",CANAL 2
+#EXTINF:1 group-title="RANDOM",CANAL 2
 http://91.230.214.75/LIVE/2/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",CANAL 3
+#EXTINF:1 group-title="RANDOM",CANAL 3
 http://91.230.214.75/LIVE/3/2000.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="MOLDTELECOM",THT / Exclusiv TV
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",THT / Exclusiv TV
 http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2463/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ITV Moldova
+#EXTINF:1 group-title="RANDOM",ITV Moldova
 http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2461/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",N4
+#EXTINF:1 group-title="RANDOM",N4
 http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2460/index.m3u8
-#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/20.png" group-title="MOLDTELECOM",MEGA TV
-http://212.0.213.132:8082/CTC/index.m3u8
-#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/538.png" group-title="MOLDTELECOM",CINEMA 1
-http://212.0.213.132:8082/Cinema-1/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",REN Moldova
-http://212.0.213.132:8082/Ren_TV/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",AGRO TV Moldova
-http://212.0.213.132:8082/Agro/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",TVC 21
-http://212.0.213.132:8082/TVC21/index.m3u8
-#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/327.png" group-title="MOLDTELECOM",10 TV
-http://212.0.213.132:8082/10_TV/index.m3u8
-#EXTINF:1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="MOLDTELECOM",VOCEA BASARABIEI
-http://212.0.213.132:8082/Vocea_Basarabiei/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",DISCOVERY
-http://212.0.213.132:8082/Discovery/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ANIMAL PLANET
-http://212.0.213.132:8082/Animal_Planet_HD/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",КИНО ТВ
-http://212.0.213.132:8082/Kino_TV/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",КИНОХИТ
-http://212.0.213.132:8082/KinoHit/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",TV 1000
-http://212.0.213.132:8082/TV1000/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",TV 1000 Action
-http://212.0.213.132:8082/TV1000_Action/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ИНДИЯ ТВ
-http://212.0.213.132:8082/India/index.m3u8
-#EXTINF: -1 tvg-logo="https://iptvz.cf/kinosvidanie.png" group-title="MOLDTELECOM",КИНОСВИДАНИЕ
-http://212.0.213.132:8082/Kinosvidanie/index.m3u8
-#EXTINF: -1 tvg-logo="https://iptvz.cf/kinomiks.png" group-title="MOLDTELECOM",КИНОМИКС
-http://212.0.213.132:8082/Kinomix/index.m3u8
-#EXTINF: -1 tvg-logo="https://iptvz.cf/illuzion-plus.png" group-title="MOLDTELECOM",ИЛЛЮЗИОН+
-http://212.0.213.132:8082/Illuzion+/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ДОМ КИНО
-http://212.0.213.132:8082/Bolt/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",АВТО 24
-http://212.0.213.132:8082/DTX_HD/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",TRAVEL CHANNEL
-http://212.0.213.132:8082/Travel+Adventure/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",МОЯ ПЛАНЕТА
-http://212.0.213.132:8082/MoyaPlaneta/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ЖИВАЯ ПЛАНЕТА
-http://212.0.213.132:8082/Zhivaya_Planeta/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",НАУКА 2.0
-http://212.0.213.132:8082/Nauka/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",VIASAT HISTORY
-http://212.0.213.132:8082/Viasat_History/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",TLC
-http://212.0.213.132:8082/TLC/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ЗДОРОВОЕ ТВ
-http://212.0.213.132:8082/Zdorovoe_TV/index.m3u8
-#EXTINF: -1 tvg-logo="https://iptvz.cf/kuhnia.png" group-title="MOLDTELECOM",КУХНЯ ТВ
-http://212.0.213.132:8082/Kuhnea/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",ОХОТА И РЫБАЛКА
-http://212.0.213.132:8082/Ohota_i_ribalka/index.m3u8
-#EXTINF: -1 tvg-logo="https://iptvz.cf/sarafan.png" group-title="MOLDTELECOM",САРАФАН
-http://212.0.213.132:8082/Sarafan/index.m3u8
+#EXTINF:1 group-title="RANDOM",TVC 21
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2458/index.m3u8
+#EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/327.png" group-title="RANDOM",10 TV
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2466/index.m3u8
+#EXTINF:1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="RANDOM",VOCEA BASARABIEI
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",KVARTAL TV
-http://212.0.213.132:8082/Kvartal_95/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",NOROC TV
-http://212.0.213.132:8082/Noroc/index.m3u8
-#EXTINF:1 group-title="MOLDTELECOM",МУЗ ТВ
-http://212.0.213.132:8082/Atomic/index.m3u8
+http://212.0.215.115/KvartalTV/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RU
 http://212.0.215.115/Euronews/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RO
@@ -249,3 +191,9 @@ http://185.23.80.28:8080/ZooTV/index.m3u8
 http://185.23.80.28:8080/Istoriya/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",КРАСНАЯ ЛИНИЯ
 http://185.23.80.28:8080/KrasnayaLiniya/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",САРАФАН
+http://185.23.80.28:8080/Sarafan/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НАУКА 2.0
+http://185.23.80.28:8080/Nauka/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",МОЯ ПЛАНЕТА
+http://185.23.80.28:8080/MoyaPlaneta/index.m3u8
