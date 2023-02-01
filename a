@@ -1,14 +1,14 @@
 #EXTM3U 
 #EXTINF:1 tvg-logo="https://i121.fastpic.org/big/2023/0118/2d/07a828806147c985bb413cef9324e72d.png" group-title="MOLDTELECOM",MOLDOVA 1
-http://212.0.213.132:8082/Moldova_1/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2444/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/165.png" group-title="MOLDTELECOM",JURNAL TV
-http://212.0.213.132:8082/Jurnal_TV/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2446/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/3.png" group-title="MOLDTELECOM",PRO TV Chisinau
-http://212.0.213.132:8082/Pro_TV/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/19452/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/397.png" group-title="MOLDTELECOM",TV8 Moldova
-http://212.0.213.132:8082/TV8/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2454/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="MOLDTELECOM",PUBLIKA
-http://212.0.213.132:8082/Publika/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2450/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",TVRi
@@ -30,17 +30,17 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:1 tvg-logo="https://iptvz.cf/familia-domashniy.png" group-title="MOLDTELECOM",FAMILIA
 http://212.0.213.132:8082/FAMILIA_DOMASHNIY/index.m3u8
 #EXTINF:1 tvg-logo="https://i121.fastpic.org/big/2023/0118/0b/bc54f69a86e071cfcda7a0ebf063650b.png" group-title="MOLDTELECOM",MOLDOVA 2
-http://212.0.213.132:8082/Moldova_2/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2445/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",CANAL 2
-http://212.0.213.132:8082/Canal_2/index.m3u8
+http://91.230.214.75/LIVE/2/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",CANAL 3
-http://212.0.213.132:8082/Canal_3/index.m3u8
+http://91.230.214.75/LIVE/3/2000.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="MOLDTELECOM",THT / Exclusiv TV
-http://212.0.213.132:8082/TNT_Exclusive/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2463/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",ITV Moldova
-http://212.0.213.132:8082/ITV/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2461/index.m3u8
 #EXTINF:1 group-title="MOLDTELECOM",N4
-http://212.0.213.132:8082/N4/index.m3u8
+http://tvshare.ottrast.com/iptv/4NKM53CDVHNQMG/2460/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/20.png" group-title="MOLDTELECOM",MEGA TV
 http://212.0.213.132:8082/CTC/index.m3u8
 #EXTINF:1 tvg-logo="https://www.arax.md/assets/channels/538.png" group-title="MOLDTELECOM",CINEMA 1
