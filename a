@@ -88,16 +88,9 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 
-#EXTINF:-1 group-title="RANDOM",PRO TV ROMANIA
-http://strange01.privacymonster.co:25461/Mihaela_Gherasim/bKMZmpnZ/16209
+
 #EXTINF:-1 group-title="RANDOM",TVR 1
 http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/5026/index.m3u8
-#EXTINF:-1 group-title="RANDOM",ANTENA 1
-http://strange01.privacymonster.co:25461/Mihaela_Gherasim/bKMZmpnZ/16210
-#EXTINF:-1 group-title="RANDOM",ANTENA 3
-http://strange01.privacymonster.co:25461/Mihaela_Gherasim/bKMZmpnZ/36792
-#EXTINF:-1 group-title="RANDOM",DIGI 24
-http://strange01.privacymonster.co:25461/Mihaela_Gherasim/bKMZmpnZ/99415
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ВОПРОСЫ И ОТВЕТЫ
@@ -191,3 +184,6 @@ http://185.23.80.28:8080/Sarafan/index.m3u8
 http://185.23.80.28:8080/Nauka/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",МОЯ ПЛАНЕТА
 http://185.23.80.28:8080/MoyaPlaneta/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="IZONE",ДЕТСКИЙ МИР
+http://185.32.44.154/detskiymir/index.m3u8
