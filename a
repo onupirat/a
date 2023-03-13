@@ -116,7 +116,7 @@ http://77.89.221.150/tezaur/index.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png"group-title="RANDOM",SPORT 
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img001.prntscr.com/file/img001/Qp1-8T5MSbSvKeQ9btm8Ww.png"group-title="RANDOM",ИЗВЕСТИЯ ТВ
-http://95.217.196.109:8081/russia/izvestiya/playlist.m3u8
+http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",DROCHIA TV
 https://hls.drochia.tv/tv/web.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ
