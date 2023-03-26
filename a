@@ -39,7 +39,7 @@ http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2461/index.m3u8
 http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2460/index.m3u8
 #EXTINF:-1 group-title="RANDOM",TVC 21
 http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2458/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/327.png" group-title="RANDOM",10 TV
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/327.png" group-title="RANDOM",TCB
 http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2466/index.m3u8
 #EXTINF:-1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="RANDOM",VOCEA BASARABIEI
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
@@ -57,6 +57,10 @@ http://212.0.215.115/Euronews_Ro/mpegts
 
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 Русское кино 
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT EXPLORE
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT HISTORY
@@ -68,7 +72,9 @@ https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ!
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",МАТЧ! СТРАНА
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Матч! АРЕНА
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ПЯТНИЦА
 https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",СУББОТА
@@ -85,6 +91,8 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP COMEDY
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 
@@ -119,10 +127,14 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",DROCHIA TV
 https://hls.drochia.tv/tv/web.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",DIGI LIFE
+http://84.17.61.203:8086/udp/229.28.15.145:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Bucuresti TV
+http://84.17.61.203:8086/udp/229.28.15.155:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Antena 1
+http://84.17.61.203:8086/udp/229.28.13.11:1234
 
 
 
@@ -185,5 +197,76 @@ http://185.23.80.28:8080/Nauka/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",МОЯ ПЛАНЕТА
 http://185.23.80.28:8080/MoyaPlaneta/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="IZONE",ДЕТСКИЙ МИР
-http://185.32.44.154/detskiymir/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Cartoon Network
+http://84.17.61.203:8086/udp/229.28.13.34:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Disney Junior
+http://84.17.61.203:8086/udp/229.28.13.35:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Nickelodeon
+http://84.17.61.203:8086/udp/229.28.13.42:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Cartoonito
+http://84.17.61.203:8086/udp/229.28.13.44:1234
+
+
+#EXTINF:0 tvg-rec="0",YOSSO TV Grand
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14171/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV VHS
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14172/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Русские фильмы
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14174/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Советские фильмы
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14175/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV NEW Кино
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14177/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Music Hits
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14179/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Трагичное
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14219/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Забавное
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14234/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Ковбойское
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14235/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Best
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14236/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Adrenaline
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15105/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Thriller
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15168/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Oblivion
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15509/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Adventure
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15510/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV C-Comedy
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16151/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV C-Inquest
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16152/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV 4K
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16153/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV C-History
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/18139/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19434/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV C-Cartoon
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16050/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV C-Marvel
+#EXTGRP:кино
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16051/index.m3u8
