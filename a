@@ -56,17 +56,17 @@ http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 http://212.0.215.115/Euronews_Ro/mpegts
 
 
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 Русское кино 
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju TV1000 Русское кино 
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 HD
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju TV1000 
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",TV 1000 Action HD
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju TV1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT EXPLORE
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju EXPLORE
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT HISTORY
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju HISTORY
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIASAT NATURE
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju NATURE
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",КОННЫЙ МИР
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
