@@ -1,14 +1,14 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/2d/07a828806147c985bb413cef9324e72d.png" group-title="MOLDTELECOM",MOLDOVA 1
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2444/index.m3u8
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png" group-title="MOLDTELECOM",JURNAL TV
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2446/index.m3u8
+http://212.0.215.115/JurnalTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png" group-title="MOLDTELECOM",PRO TV Chisinau
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2456/index.m3u8
+http://212.0.215.106/ProTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/397.png" group-title="MOLDTELECOM",TV8 Moldova
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2454/index.m3u8
+http://212.0.215.115/TV8/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="MOLDTELECOM",PUBLIKA
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2450/index.m3u8
+http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",TVRi
@@ -26,7 +26,7 @@ https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.privesc.eu/Content/images/logo.png"group-title="RANDOM",PRIVESC EU
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/0b/bc54f69a86e071cfcda7a0ebf063650b.png" group-title="RANDOM",MOLDOVA 2
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2445/index.m3u8
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 group-title="RANDOM",CANAL 2
 http://91.230.214.75/LIVE/2/index.m3u8
 #EXTINF:-1 group-title="RANDOM",CANAL 3
@@ -36,17 +36,15 @@ http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2463/index.m3u8
 #EXTINF:-1 group-title="RANDOM",ITV Moldova
 http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2461/index.m3u8
 #EXTINF:-1 group-title="RANDOM",N4
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2460/index.m3u8
+https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 group-title="RANDOM",TVC 21
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2458/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/327.png" group-title="RANDOM",TCB
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2466/index.m3u8
+http://212.0.215.115/TVC21/mpegts
 #EXTINF:-1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="RANDOM",VOCEA BASARABIEI
-http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+https://storage.voceabasarabiei.md/vocea/bitrate_720p.m3u8
 #EXTINF:-1 tvg-logo= group-title="RANDOM",РЕН
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2457/index.m3u8
+http://212.0.215.115/DTV/mpegts
 #EXTINF:-1 tvg-logo= group-title="RANDOM",REN Moldova
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2455/index.m3u8
+http://212.0.215.115/PEHTB/mpegts
 #EXTINF:-1 group-title="MOLDTELECOM",KVARTAL TV
 http://212.0.215.115/KvartalTV/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RU
