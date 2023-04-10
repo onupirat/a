@@ -8,8 +8,6 @@ http://212.0.215.106/ProTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/397.png" group-title="MOLDTELECOM",TV8 Moldova
 http://212.0.215.115/TV8/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="MOLDTELECOM",PUBLIKA
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="MOLDTELECOM",PUBLIKA Moldtelecom
 http://212.0.215.106/PublikaTV/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
@@ -34,11 +32,11 @@ http://91.230.214.75/LIVE/3/2000.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/kvartal-tv.png"group-title="",Kvartal TV
 http://212.0.215.115/KvartalTV/mpegts
 #EXTINF:-1 group-title="RANDOM",N4
-https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
+http://212.0.215.115/N4/mpegts
 #EXTINF:-1 group-title="RANDOM",TVC 21
 http://212.0.215.115/TVC21/mpegts
 #EXTINF:-1 tvg-logo="https://voceabasarabiei.md/wp-content/uploads/2022/08/Favicon-VB.png"group-title="RANDOM",VOCEA BASARABIEI
-https://storage.voceabasarabiei.md/vocea/bitrate_720p.m3u8
+http://212.0.215.115/VoceaBas/mpegts
 #EXTINF:-1 tvg-logo= group-title="RANDOM",РЕН
 http://212.0.215.115/DTV/mpegts
 #EXTINF:-1 tvg-logo= group-title="RANDOM",REN Moldova
@@ -55,6 +53,18 @@ http://212.0.215.115/Euronews_Ro/mpegts
 #EXTINF:-1 group-title="RANDOM",Время
 http://212.193.176.191:81/udp/239.195.3.42:1234
 *http://127.0.0.1:6878/ace/getstream?id=c27e9c27bcc5dc10feb51cc0e25ae07160153f3d
+#EXTINF:-1,Психология 21
+http://212.193.176.191:81/udp/239.195.4.94:1234
+#EXTINF:-1,Вопросы и Ответы
+http://212.193.176.191:81/udp/239.195.4.95:1234
+#EXTINF:-1,Сарафан
+http://212.193.176.191:81/udp/239.195.4.97:1234
+#EXTINF:-1,Оружие
+http://212.193.176.191:81/udp/239.195.5.2:1234
+#EXTINF:-1,Кто есть кто
+http://212.193.176.191:81/udp/239.195.5.4:1234
+#EXTINF:-1,Ностальгия
+http://212.193.176.191:81/udp/239.195.5.5:1234
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ЗВЕЗДА
@@ -95,8 +105,7 @@ http://84.17.61.203:8086/udp/229.28.13.80:1234
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",Soroca TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",CNBC
-http://143.244.60.30/CNBC/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju TV1000 Русское кино 
@@ -210,96 +219,5 @@ http://84.17.61.203:8086/udp/229.28.13.42:1234
 http://84.17.61.203:8086/udp/229.28.13.44:1234
 
 
-#EXTINF:0 tvg-rec="0",YOSSO TV Grand
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14171/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV VHS
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14172/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Русские фильмы
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14174/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Советские фильмы
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14175/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV NEW Кино
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14177/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Music Hits
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14179/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Трагичное
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14219/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Забавное
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14234/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Ковбойское
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14235/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Best
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14236/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Adrenaline
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15105/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Thriller
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15168/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Oblivion
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15509/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Adventure
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15510/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV C-Comedy
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16151/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV C-Inquest
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16152/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV 4K
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16153/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV C-History
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/18139/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19434/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV C-Cartoon
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16050/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV C-Marvel
-#EXTGRP:кино
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16051/index.m3u8
 
 
-#EXTINF:-1 group-title=\"Региональные\",НТВ ПРАВО
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
-#EXTINF:-1 group-title=\"Региональные\",НТВ СЕРИАЛ
-http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title=\"Региональные\",НТВ ХИТ
-http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title=\"Региональные\",НТВ-СТИЛЬ
-http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:-1 group-title=\"Региональные\",НТВ HD
-http://185.23.80.28:8080/NTV/index.m3u8
-#EXTINF:-1 group-title=\"Региональные\",360 Новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1,Доктор
-http://212.193.176.191:81/udp/239.195.4.92:1234
-#EXTINF:-1,Психология 21
-http://212.193.176.191:81/udp/239.195.4.94:1234
-#EXTINF:-1,Вопросы и Ответы
-http://212.193.176.191:81/udp/239.195.4.95:1234
-#EXTINF:-1,Сарафан
-http://212.193.176.191:81/udp/239.195.4.97:1234
-#EXTINF:-1,Оружие
-http://212.193.176.191:81/udp/239.195.5.2:1234
-#EXTINF:-1,Кто есть кто
-http://212.193.176.191:81/udp/239.195.5.4:1234
-#EXTINF:-1,Ностальгия
-http://212.193.176.191:81/udp/239.195.5.5:1234
-#EXTINF:-1,МАТЧ HD
-http://212.193.176.191:81/udp/239.195.5.25:1234
