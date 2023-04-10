@@ -53,7 +53,8 @@ http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RO
 http://212.0.215.115/Euronews_Ro/mpegts
 #EXTINF:-1 group-title="RANDOM",Время
-http://127.0.0.1:6878/ace/getstream?id=c27e9c27bcc5dc10feb51cc0e25ae07160153f3d
+http://212.193.176.191:81/udp/239.195.3.42:1234
+*http://127.0.0.1:6878/ace/getstream?id=c27e9c27bcc5dc10feb51cc0e25ae07160153f3d
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",ЗВЕЗДА
@@ -272,3 +273,33 @@ http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16050/index.m3u8
 #EXTINF:0 tvg-rec="0",YOSSO TV C-Marvel
 #EXTGRP:кино
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16051/index.m3u8
+
+
+#EXTINF:-1 group-title=\"Региональные\",НТВ ПРАВО
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title=\"Региональные\",НТВ СЕРИАЛ
+http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title=\"Региональные\",НТВ ХИТ
+http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title=\"Региональные\",НТВ-СТИЛЬ
+http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 group-title=\"Региональные\",НТВ HD
+http://185.23.80.28:8080/NTV/index.m3u8
+#EXTINF:-1 group-title=\"Региональные\",360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1,Доктор
+http://212.193.176.191:81/udp/239.195.4.92:1234
+#EXTINF:-1,Психология 21
+http://212.193.176.191:81/udp/239.195.4.94:1234
+#EXTINF:-1,Вопросы и Ответы
+http://212.193.176.191:81/udp/239.195.4.95:1234
+#EXTINF:-1,Сарафан
+http://212.193.176.191:81/udp/239.195.4.97:1234
+#EXTINF:-1,Оружие
+http://212.193.176.191:81/udp/239.195.5.2:1234
+#EXTINF:-1,Кто есть кто
+http://212.193.176.191:81/udp/239.195.5.4:1234
+#EXTINF:-1,Ностальгия
+http://212.193.176.191:81/udp/239.195.5.5:1234
+#EXTINF:-1,МАТЧ HD
+http://212.193.176.191:81/udp/239.195.5.25:1234
