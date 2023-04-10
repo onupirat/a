@@ -9,16 +9,16 @@ http://212.0.215.106/ProTV/mpegts
 http://212.0.215.115/TV8/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="MOLDTELECOM",PUBLIKA
 http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="MOLDTELECOM",PUBLIKA Moldtelecom
+http://212.0.215.106/PublikaTV/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png"group-title="RANDOM",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",TVRi
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTINF:-1 group-title="RANDOM",PRIME
-https://livebeta.publika.md/LIVE/1/600.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png"group-title="RANDOM",TV6
-https://streamtvc.tk/ctv/stream.m3u8
+http://212.0.215.115/Prime/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/471.png"group-title="RANDOM",PRIMUL ÎN MOLDOVA
 https://video.a-tv.md/live/primul.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png"group-title="RANDOM",Orizont TV
+https://streamtvc.tk/ctv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/a2/a6921f038e4e77bfa233f77eee1f43a2.png"group-title="RANDOM",EURO TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RANDOM",REALITATEA LIVE
@@ -31,10 +31,8 @@ http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 http://91.230.214.75/LIVE/2/index.m3u8
 #EXTINF:-1 group-title="RANDOM",CANAL 3
 http://91.230.214.75/LIVE/3/2000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",THT / Exclusiv TV
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2463/index.m3u8
-#EXTINF:-1 group-title="RANDOM",ITV Moldova
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/2461/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/kvartal-tv.png"group-title="",Kvartal TV
+http://212.0.215.115/KvartalTV/mpegts
 #EXTINF:-1 group-title="RANDOM",N4
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 group-title="RANDOM",TVC 21
@@ -47,11 +45,57 @@ http://212.0.215.115/DTV/mpegts
 http://212.0.215.115/PEHTB/mpegts
 #EXTINF:-1 group-title="MOLDTELECOM",KVARTAL TV
 http://212.0.215.115/KvartalTV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/268.png"group-title="",ITV
+http://212.0.215.115/ITV/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RU
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
  ...http://212.0.215.115/Euronews/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" group-title="MOLDTELECOM",EURONEWS RO
 http://212.0.215.115/Euronews_Ro/mpegts
+#EXTINF:-1 group-title="RANDOM",Время
+http://127.0.0.1:6878/ace/getstream?id=c27e9c27bcc5dc10feb51cc0e25ae07160153f3d
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",КВН ТВ
+http://146.158.0.56:80/KVN/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",ЗВЕЗДА
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",НОВЫЙ МИР
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",UNIVER TV
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telplus.ru/local/templates/telplus/assets/build/img/svg/logo-sm.svg"group-title="RANDOM",ТЕЛПЛЮС
+http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/517.png"group-title="RANDOM",TEZAUR FOLK
+http://77.89.221.150/tezaur/index.m3u8
+#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png"group-title="RANDOM",SPORT 
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img001.prntscr.com/file/img001/Qp1-8T5MSbSvKeQ9btm8Ww.png"group-title="RANDOM",ИЗВЕСТИЯ ТВ
+http://85.234.33.64/stream/c11.m3u8
+#EXTINF:-1 tvg-logo="https://iptvz.cf/nastoiaschee-vremia.png"group-title="",Настоящее Время
+http://212.0.215.115/CurrentTime/mpegts
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",DROCHIA TV
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Bucuresti TV
+http://84.17.61.203:8086/udp/229.28.15.155:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Antena 1
+http://84.17.61.203:8086/udp/229.28.13.11:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Antena 3
+http://84.17.61.203:8086/udp/229.28.13.10:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",DIGI 24
+http://84.17.61.203:8086/udp/229.35.15.103:1234
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",TVR1 HD
+http://84.17.61.203:8086/udp/229.28.13.80:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" group-title="RANDOM",TVRi
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",Soroca TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RANDOM",CNBC
+http://143.244.60.30/CNBC/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju TV1000 Русское кино 
@@ -84,57 +128,16 @@ https://bl.uma.media/live/407373/HLS/407373_7/1/1/playlist.m3u8
 https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP PREMIERE
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju+ PREMIERE
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP MEGAHIT
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju+ MEGAHIT
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP COMEDY
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju+ COMEDY
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",VIP Serial HD
+#EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",Viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="РУТЬЮБ",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="RANDOM",TVR 1
-http://pid1bjea.tvclub.xyz/iptv/VMTNYFABAEQZZQ/5026/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",КВН ТВ
-http://146.158.0.56:80/KVN/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",ВОПРОСЫ И ОТВЕТЫ
-http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",ВРЕМЯ
-http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",ЗВЕЗДА
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",МИР 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",МОСФИЛЬМ
-http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",НОВЫЙ МИР
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",UNIVER TV
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telplus.ru/local/templates/telplus/assets/build/img/svg/logo-sm.svg"group-title="RANDOM",ТЕЛПЛЮС
-http://213.108.175.226/telplushd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/517.png"group-title="RANDOM",TEZAUR FOLK
-http://77.89.221.150/tezaur/index.m3u8
-#EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png"group-title="RANDOM",SPORT 
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://img001.prntscr.com/file/img001/Qp1-8T5MSbSvKeQ9btm8Ww.png"group-title="RANDOM",ИЗВЕСТИЯ ТВ
-http://85.234.33.64/stream/c11.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",DROCHIA TV
-https://hls.drochia.tv/tv/web.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",DIGI LIFE
-http://84.17.61.203:8086/udp/229.28.15.145:1234
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Bucuresti TV
-http://84.17.61.203:8086/udp/229.28.15.155:1234
-#EXTINF:-1 tvg-logo=""group-title="RANDOM",Antena 1
-http://84.17.61.203:8086/udp/229.28.13.11:1234
-
 
 
 #EXTINF:-1 tvg-logo=""group-title="Телеком-сервис",НТВ
