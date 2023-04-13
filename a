@@ -194,3 +194,30 @@ http://84.17.61.203:8086/udp/229.28.13.35:1234
 http://84.17.61.203:8086/udp/229.28.13.42:1234
 #EXTINF:-1 ,Cartoonito
 http://84.17.61.203:8086/udp/229.28.13.44:1234
+
+#EXTINF:-1 group-title="Кинозалы",BCU Ultra 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/11045/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",BCU Premiere Ultra 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/15023/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Love Nature 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5001/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Insight UHD 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5000/index.m3u8
+#EXTINF:-1 group-title="Познавательные",SKY HIGH NATURE 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/14247/index.m3u8
+#EXTINF:-1 group-title="Познавательные",SKY HIGH DOC UHD
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/17053/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Museum 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/14016/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TravelXP 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/14026/index.m3u8
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/4000/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино UHD 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5004/index.m3u8
+#EXTINF:-1 group-title="Кино",Сериал UHD 4K
+http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5005/index.m3u8
+
+
+
+
