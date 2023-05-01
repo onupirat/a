@@ -63,8 +63,12 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ПЯТНИЦА
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СУББОТА
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ТВ3
+https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,КОННЫЙ МИР
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
@@ -92,65 +96,6 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Viju+ SERIAL
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
-
-#EXTINF:-1 ,ДОКТОР
-http://185.23.80.28:8080/Doktor/index.m3u8
-#EXTINF:-1 ,НАУКА 2.0
-http://185.23.80.28:8080/Nauka/index.m3u8
-#EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://185.23.80.28:8080/MoyaPlaneta/index.m3u8
-#EXTINF:-1 ,НТВ
-http://185.23.80.28:8080/NTV/index.m3u8
-#EXTINF:-1 ,НТВ Право
-http://185.23.80.28:8080/NTVPravo/index.m3u8
-#EXTINF:-1 ,НТВ Сериал
-http://185.23.80.28:8080/NTVSerial/index.m3u8
-#EXTINF:-1 ,НТВ Стиль
-http://185.23.80.28:8080/NTVStil/index.m3u8
-#EXTINF:-1 ,НТВ Хит
-http://185.23.80.28:8080/NTVXit/index.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://185.23.80.28:8080/Pervyj/index.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-http://185.23.80.28:8080/Rossiya1/index.m3u8
-#EXTINF:-1 ,РОССИЯ 24
-http://185.23.80.28:8080/Rossiya24/index.m3u8
-#EXTINF:-1 ,РОССИЯ К
-http://185.23.80.28:8080/RossiyaK/index.m3u8
-#EXTINF:-1 ,ПРИКЛЮЧЕНИЯ
-http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8
-#EXTINF:-1 ,ПЯТЫЙ КАНАЛ
-http://185.23.80.28:8080/Pyatyj/index.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://185.23.80.28:8080/REN/index.m3u8
-#EXTINF:-1 ,РЕТРО
-http://185.23.80.28:8080/Retro/index.m3u8
-#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://185.23.80.28:8080/RusskijDetektiv/index.m3u8
-#EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
-http://185.23.80.28:8080/RusIlluzion/index.m3u8
-#EXTINF:-1 ,РУССКИЙ РОМАН
-http://185.23.80.28:8080/RusskijRoman/index.m3u8
-#EXTINF:-1 ,ТЕЛЕПУТЕШЕСТВИЯ
-http://185.23.80.28:8080/Teleputeshestviya/index.m3u8
-#EXTINF:-1 ,ЧЕ
-http://185.23.80.28:8080/Che/index.m3u8
-#EXTINF:-1 ,ДОМАШНИЙ
-http://185.23.80.28:8080/Domashnij/index.m3u8
-#EXTINF:-1 ,ЕДА
-http://185.23.80.28:8080/Eda/index.m3u8
-#EXTINF:-1 ,ЖИВАЯ ПЛАНЕТА
-http://185.23.80.28:8080/ZhivayaPlaneta/index.m3u8
-#EXTINF:-1 ,ЗАГОРОДНЫЙ
-http://185.23.80.28:8080/Zagorodnyj/index.m3u8
-#EXTINF:-1 ,ЗОО ТВ
-http://185.23.80.28:8080/ZooTV/index.m3u8
-#EXTINF:-1 ,ИСТОРИЯ
-http://185.23.80.28:8080/Istoriya/index.m3u8
-#EXTINF:-1 ,КРАСНАЯ ЛИНИЯ
-http://185.23.80.28:8080/KrasnayaLiniya/index.m3u8
-#EXTINF:-1 ,САРАФАН
-http://185.23.80.28:8080/Sarafan/index.m3u8
 
 
 #EXTINF:-1 ,ЗВЕЗДА
@@ -194,29 +139,6 @@ http://84.17.61.203:8086/udp/229.28.13.35:1234
 http://84.17.61.203:8086/udp/229.28.13.42:1234
 #EXTINF:-1 ,Cartoonito
 http://84.17.61.203:8086/udp/229.28.13.44:1234
-
-#EXTINF:-1 group-title="Кинозалы",BCU Ultra 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/11045/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",BCU Premiere Ultra 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/15023/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Love Nature 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5001/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Insight UHD 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5000/index.m3u8
-#EXTINF:-1 group-title="Познавательные",SKY HIGH NATURE 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/14247/index.m3u8
-#EXTINF:-1 group-title="Познавательные",SKY HIGH DOC UHD
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/17053/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Museum 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/14016/index.m3u8
-#EXTINF:-1 group-title="Познавательные",TravelXP 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/14026/index.m3u8
-#EXTINF:-1 group-title="Кино",Ultra HD Cinema 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/4000/index.m3u8
-#EXTINF:-1 group-title="Кино",Кино UHD 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5004/index.m3u8
-#EXTINF:-1 group-title="Кино",Сериал UHD 4K
-http://hyqzethr.megatv.fun/iptv/WKQSYHPVXMB84C/5005/index.m3u8
 
 
 
