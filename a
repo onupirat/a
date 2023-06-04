@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/2d/07a828806147c985bb413cef9324e72d.png" ,MOLDOVA 1
-http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+https://v1.trm.md/static/streaming-playlists/hls/53ce5925-b71d-41de-8ac3-3b4891a01445/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png" ,JURNAL TV
 http://212.0.215.115/JurnalTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png" ,PRO TV Chisinau
@@ -31,8 +31,6 @@ http://212.0.215.115/DTV/mpegts
 http://212.0.215.115/PEHTB/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/268.png",ITV
 http://212.0.215.115/ITV/mpegts
-#EXTINF:-1 ,ВРЕМЯ
-http://212.193.176.191:81/udp/239.195.3.42:1234
 #EXTINF:-1 ,КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/kvartal-tv.png",KVARTAL TV
@@ -45,22 +43,12 @@ http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 http://212.0.215.115/Euronews_Ro/mpegts
 #EXTINF:-1 tvg-logo="https://img001.prntscr.com/file/img001/Qp1-8T5MSbSvKeQ9btm8Ww.png",ИЗВЕСТИЯ ТВ
 http://85.234.33.64/stream/c11.m3u8
-#EXTINF:-1 ,CNBC
-http://143.244.60.30/CNBC/index.m3u8
-#EXTINF:-1 ,DIGI 24
-http://84.17.61.203:8086/udp/229.35.15.103:1234
-#EXTINF:-1 ,ANTENA 1
-http://84.17.61.203:8086/udp/229.28.13.11:1234
-#EXTINF:-1 ,ANTENA 3
-http://84.17.61.203:8086/udp/229.28.13.10:1234
-#EXTINF:-1 ,TVR1 HD
-http://84.17.61.203:8086/udp/229.28.13.80:1234
+#EXTINF:-1,Digi24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 
 
 #EXTINF:-1 ,2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ
-https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -108,8 +96,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 ,TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://telplus.ru/local/templates/telplus/assets/build/img/svg/logo-sm.svg",ТЕЛПЛЮС
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png",SPORT 
@@ -126,20 +112,8 @@ https://realitatealive.md/tv/rlive.m3u8
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/a2/a6921f038e4e77bfa233f77eee1f43a2.png",EURO TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 ,DROCHIA TV
-https://hls.drochia.tv/tv/web.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/0b/bc54f69a86e071cfcda7a0ebf063650b.png",MOLDOVA 2
-http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
-
-#EXTINF:-1 ,Cartoon Network
-http://84.17.61.203:8086/udp/229.28.13.34:1234
-#EXTINF:-1 ,Disney Junior
-http://84.17.61.203:8086/udp/229.28.13.35:1234
-#EXTINF:-1 ,Nickelodeon
-http://84.17.61.203:8086/udp/229.28.13.42:1234
-#EXTINF:-1 ,Cartoonito
-http://84.17.61.203:8086/udp/229.28.13.44:1234
-
-
-
+https://v3.trm.md/static/streaming-playlists/hls/a841f731-6c85-4177-a8c3-985f9f68b6fb/master.m3u8
+#EXTINF:-1 ,We Sport
+http://212.0.215.106/WE_SPORT/mpegts
 
