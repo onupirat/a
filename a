@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/2d/07a828806147c985bb413cef9324e72d.png" ,MOLDOVA 1
-https://v1.trm.md/static/streaming-playlists/hls/53ce5925-b71d-41de-8ac3-3b4891a01445/master.m3u8
+http://212.0.215.115/Moldova1/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/165.png" ,JURNAL TV
 http://212.0.215.115/JurnalTV/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/3.png" ,PRO TV Chisinau
@@ -9,12 +9,12 @@ http://212.0.215.106/ProTV/mpegts
 http://212.0.215.115/TV8/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/168.png" ,PUBLIKA
 http://212.0.215.106/PublikaTV/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/592.png" group-title="MIXMONTAN", Tele Moldova+
+http://212.0.215.115/TeleMoldova+/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TVR_logo.svg/220px-TVR_logo.svg.png",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:-1 ,PRIME
 http://212.0.215.115/Prime/mpegts
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/471.png",PRIMUL ÎN MOLDOVA
-https://video.a-tv.md/live/primul.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png",ORIZONT TV
 https://streamtvc.tk/ctv/stream.m3u8
 #EXTINF:-1 ,CANAL 2
@@ -31,6 +31,10 @@ http://212.0.215.115/DTV/mpegts
 http://212.0.215.115/PEHTB/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/268.png",ITV
 http://212.0.215.115/ITV/mpegts
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/256.png", AgroTV
+http://212.0.215.115/AgroTV/mpegts
+#EXTINF:-1,GRT
+http://212.0.215.115/GRT/mpegts
 #EXTINF:-1 ,КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvz.cf/kvartal-tv.png",KVARTAL TV
@@ -41,12 +45,19 @@ http://212.0.215.115/VoceaBas/mpegts
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 tvg-logo="https://iptvz.cf/euronews.png" ,EURONEWS RO
 http://212.0.215.115/Euronews_Ro/mpegts
+#EXTINF: -1 tvg-logo="https://iptvz.cf/france24.png" group-title="GLOBECAST", France 24
+http://212.0.215.115/France24eng/mpegts
+#EXTINF: -1 tvg-logo="https://iptvz.cf/deutsche-welle-eu.png" group-title="GLOBECAST", DW English
+http://212.0.215.115/DWeng/mpegts
 #EXTINF:-1 tvg-logo="https://img001.prntscr.com/file/img001/Qp1-8T5MSbSvKeQ9btm8Ww.png",ИЗВЕСТИЯ ТВ
 http://85.234.33.64/stream/c11.m3u8
+#EXTINF: -1 tvg-logo="https://iptvz.cf/dozhd.png" group-title="Ungrouped", Дождь
+http://212.0.215.115/TV_Rain/mpegts
 #EXTINF:-1,Digi24 HD
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://picon.ml/tlc.png", TLC
+http://212.0.215.115/TLC/mpegts
 #EXTINF:-1 ,2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -85,7 +96,18 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
 
-
+#EXTINF: -1 tvg-logo="https://iptvz.cf/national-geographic.png" group-title="-", National Geographic
+http://212.0.215.115/NAT-GEO/mpegts
+#EXTINF: -1 tvg-logo="https://iptvz.cf/discovery-channel.png" group-title="Discovery", Discovery
+http://212.0.215.115/Discovery/mpegts
+#EXTINF: -1 tvg-logo="https://iptvz.cf/animal-planet.png" group-title="FFmpeg", Animal Planet
+http://212.0.215.115/AnimalPl/mpegts
+#EXTINF: -1 tvg-logo="https://iptvz.cf/dtx.png" group-title="Discovery", Discovery Turbo Xtra
+http://212.0.215.115/DTX/mpegts
+#EXTINF: -1 tvg-logo="https://iptvz.cf/travel-adventure.png" group-title="RSCC", Travel+Adventure
+http://212.0.215.115/Travel/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/14.png" group-title="iNES Group", Travel Mix HD
+http://212.0.215.115/TravelMix/mpegts
 #EXTINF:-1 ,ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,МИР
@@ -100,6 +122,8 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i121.fastpic.org/big/2023/0118/84/0f750726d52e466f8a064db1c6835584.png",SPORT 
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,EUROSPORT
+http://212.0.215.115/Eurosport1/mpegts
 #EXTINF:-1 tvg-logo="https://iptvz.cf/nastoiaschee-vremia.png",Настоящее Время
 http://212.0.215.115/CurrentTime/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/TVRi.png" ,TVRi
