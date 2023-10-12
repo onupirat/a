@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:-1 ,PRIME
 http://212.0.215.115/Prime/mpegts
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/15.png",ORIZONT TV
-https://streamtvc.tk/ctv/stream.m3u8
+https://streamtvc.tk/ctv/stream_high/index.m3u8
 #EXTINF:-1 ,CANAL 2
 http://91.230.214.75/LIVE/2/index.m3u8
 #EXTINF:-1 ,CANAL 3
@@ -141,3 +141,7 @@ https://v3.trm.md/static/streaming-playlists/hls/a841f731-6c85-4177-a8c3-985f9f6
 #EXTINF:-1 ,We Sport
 http://212.0.215.106/WE_SPORT/mpegts
 
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",HD Life
+http://46.174.83.66/HDL/index.m3u8
